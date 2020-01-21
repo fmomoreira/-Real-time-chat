@@ -24,3 +24,6 @@ link: https://www.linkedin.com/in/felipemoreirafrontend/
 
 
 Abraços!!!
+
+
+Todos os direitos reservados ao pessoal da https://rocketseat.com.br/ sempre compartilhando conteudo de 1º qualidade no mercado de softwares!!!
